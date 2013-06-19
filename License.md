@@ -45,10 +45,10 @@ no longer apply to your _work_ or _derivative work_.
 
 ### Disclaimer
 
-This license is provided AS-IS, without warranty of any kind, 
+The _TFLFC_ is provided AS-IS, without warranty of any kind, 
 express or implied, including but not limited to the warranties 
 of merchantability, fitness for a particular purpose and 
-noninfringement, if and only if this license does not come with
+noninfringement, if and only if the _TFLFC_ does not come with
 a contractual obligation such as a warranty of any kind.
 
 In no event shall the author of this license be liable for any
