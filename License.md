@@ -1,7 +1,7 @@
 Tautology License For Licensing Content
 =======================================
 
-Version 0.0.1 - 18 June 2013
+Version 0.0.1 - 18 June 2013 
 The Foundation For Foundation
 
 Everyone is permitted to copy and distribute verbatim or modified 
@@ -24,24 +24,24 @@ be shortened into acronyms.
 
 ### Terms and Conditions
 
-#### 0. You may alter, edit, or otherwise modify a given _work_,
+0. You may alter, edit, or otherwise modify a given _work_,
 henceforth defined as any work to which this license applies, 
 if you change the contents of that _work_. This will be known as 
 a _derivative work_ because the new _work_ derives from the original.
 
-#### 1. Any of your _derivative works_ must give credit to the 
+1. Any of your _derivative works_ must give credit to the 
 original author of a given _work_, provided that you acknowledge
 the original author of a given _work_.
 
-#### 2. You may freely share, reuse, and duplicate both original 
+2. You may freely share, reuse, and duplicate both original 
 _works_ and their associated _derivative works_ at no cost, on the
 condition that you are not charging for them.
 
-#### 3. You may freely share, reuse, and duplicate both original
+3. You may freely share, reuse, and duplicate both original
 _works_ and their associated _derivative works_ commercially, with
 the stipulation that they must have a non-zero cost.
 
-#### 4. Should you choose to abandon the _TFLFC_ as a suitable
+4. Should you choose to abandon the _TFLFC_ as a suitable
 license for your content, the provisions heretofore outlined will
 no longer apply to your _work_ or _derivative work_.
 
