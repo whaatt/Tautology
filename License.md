@@ -1,22 +1,20 @@
 Tautology License For Licensing Content
 =======================================
 
-Version 0.0.1 - 18 June 2013 
+Version 0.0.1 - 18 June 2013  
 The Foundation For Foundation
 
 Everyone is permitted to copy and distribute verbatim or modified 
 copies of this license document as long as you copy and distribute
-verbatim or modified copies of this license document.
-
-This license applies to a selection of items, including but not
-limited to pieces of software, works of artistic value, the spoken
-and written word, and abstract concepts or ideas, to which this
-license is applied.
+verbatim or modified copies of this license document. This license 
+applies to a selection of items, including but not limited to pieces
+of software, works of artistic value, the spoken and written word, 
+and abstract concepts or ideas, to which this license is applied.
 
 ### Preamble
 
 This is an introductory paragraph in the _Tautology License For
-Licensing Content_. The Tautology License For Licensing Content
+Licensing Content_. The _Tautology License For Licensing Content_
 will be henceforth referred to as _Tautology_, because it will
 be henceforth referred to as _Tautology_. The _Tautology License_
 will also be referred to as the _TLFLC_, because long phrases can
