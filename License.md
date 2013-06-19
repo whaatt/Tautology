@@ -13,12 +13,12 @@ and abstract concepts or ideas, to which this license is applied.
 
 ### Preamble
 
-This is an introductory paragraph in the _Tautology License For
-Licensing Content_. The _Tautology License For Licensing Content_
-will be henceforth referred to as _Tautology_, because it will
-be henceforth referred to as _Tautology_. The _Tautology License_
-will also be referred to as the _TLFLC_, because long phrases can
-be shortened into acronyms.
+This is the first sentence of an introductory section in the 
+_Tautology License For Licensing Content_. The _Tautology License 
+For Licensing Content_ will be henceforth referred to as _Tautology_, 
+because it will be henceforth referred to as _Tautology_. The 
+_Tautology License_ will also be referred to as the _TLFLC_, because
+long phrases can be shortened into acronyms.
 
 ### Terms and Conditions
 
